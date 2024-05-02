@@ -1,7 +1,11 @@
 Analysis of Factors Contributing to Traffic Incidents
-Traffic crashes dataset-
+Consolidated File: Team V consolidated code has covered all the 3 datasets
 
 
- Motor Vehicle collision 
 
- x23217677.py :Covered Crash reporting 
+
+
+ 
+
+
+ 
