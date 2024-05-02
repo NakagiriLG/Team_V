@@ -1,0 +1,6 @@
+Link to the Traffic crashes dataset-
+https://catalog.data.gov/dataset/traffic-crashes-crashes
+
+Link to the Motor Vehicle collision dataset- https://data.cityofnewyork.us/api/views/h9gi-nx95/rows.xml?accessType=DOWNLOAD
+
+Link to the Crash reporting dataset https://data.montgomerycountymd.gov/api/views/mmzv-x632/rows.xml?accessType=DOWNLOAD
